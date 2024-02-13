@@ -1,0 +1,32 @@
+/* reset css fichier de mise à 0 */
+/*élément + attribut + valeur*/
+
+html{
+font-size: 62.5%; /*16px*62.5 = 10.00*/
+}
+
+/* propriété générale pour mettre en forme la balise de base */
+body{
+    font: 1.6em sans-serif; 
+    letter-spacing: .1em;
+    line-height: 1.6;
+    margin: 0;
+}
+h1,h2,h3,h4,h5,h6,ul,li,ol,p{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+a{
+    color: rgb(68, 17, 17);
+    text-decoration: none;
+}
+*{
+    box-sizing: border-box;
+}
+
+img{
+    display: inline-block;
+    vertical-align: middle;
+    object-fit: cover;
+}

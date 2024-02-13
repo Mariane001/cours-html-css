@@ -1,0 +1,23 @@
+/* la char graphique  */
+
+@import url(./reset.css);
+header > h1 {
+    background-color: #11b0e5;
+    color: #fff;  
+    font-weight: normal;
+    line-height: 6.5rem;/* 65px */
+    text-align: center;
+    font-size: 4.5rem;
+}
+section{
+    max-width: 120rem;
+    margin: 5rem auto;
+    border: solid .1rem #333;
+    padding: 1rem;
+}
+section img {
+    width: 100%;
+}
+footer *{
+    text-align: center;
+}
