@@ -11,6 +11,11 @@ body{
     letter-spacing: .1em;
     line-height: 1.6;
     margin: 0;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+    background-color: var(--bodycolor);
 }
 h1,h2,h3,h4,h5,h6,ul,li,ol,p{
     margin: 0;

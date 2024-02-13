@@ -5,6 +5,9 @@
         "amet",
         "attribut",
         "balise",
+        "bgcolor",
+        "bgsection",
+        "bodycolor",
         "caractères",
         "comprend",
         "consectetur",
@@ -41,7 +44,9 @@
         "spécifie",
         "termes",
         "texte",
+        "thème",
         "valeur",
+        "wdth",
         "Wikipédia"
     ]
 }
