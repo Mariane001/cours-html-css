@@ -8,6 +8,7 @@
         "bgcolor",
         "bgsection",
         "bodycolor",
+        "btncolor",
         "caractères",
         "comprend",
         "consectetur",
@@ -46,6 +47,8 @@
         "texte",
         "thème",
         "valeur",
+        "verte",
+        "warnig",
         "wdth",
         "Wikipédia"
     ]

@@ -14,6 +14,8 @@
     --subtitle: uppercase; /* mettre en majuscule */
     /* --subtitle: lowercase; mettre en miniscule */
     --bodycolor: #c0e089;
+    --btncolor:  #deb887;
+    
 
 }
 
@@ -45,6 +47,27 @@ section h2 {
     font-weight: 800;
 }
 
+.btn-default{
+    display: inline-block;
+    width: max-content ;
+    background-color:var(--btncolor);
+    line-height: 2.5rem;
+    padding: .3rem .1rem;
+    border-radius: var(--bordure1);
+    color: var(--bgsection);
+    text-transform: uppercase;
+    font-size: 1.4rem;
+}
+
+.btn-option-success{ /* ajout de la couleur verte */
+    background-color: #44bd32;
+    color:var(--bgcolor) ;
+}
+
+.btn-option-warnig{
+    background-color: #c23616;
+    color:var(--bgcolor);
+}
 
 section img {
     width: 100%;
