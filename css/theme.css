@@ -65,10 +65,29 @@ section h2 {
 }
 
 .btn-option-warnig{
-    background-color: #c23616;
+    background-color: red;
     color:var(--bgcolor);
 }
 
+
+.title-levelone-default{
+    background-color: #f8f3f3;
+    text-align: center;
+    color: rgb(109, 130, 148);
+    line-height: 6.5rem;
+}
+
+.title-option-levelone{
+    background-color: darksalmon;
+   
+    color: darkslategrey;
+}
+
+.title-option-leveltwo{
+    background-color: #8b7272;
+
+    color: #e1c1c1;
+}
 section img {
     width: 100%;
     border-radius: var(--bordure2);
